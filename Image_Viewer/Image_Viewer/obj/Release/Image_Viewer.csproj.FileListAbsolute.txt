@@ -1,0 +1,8 @@
+G:\ASPNET\Image_Viewer\Image_Viewer\bin\Release\Image_Viewer.exe.config
+G:\ASPNET\Image_Viewer\Image_Viewer\bin\Release\Image_Viewer.exe
+G:\ASPNET\Image_Viewer\Image_Viewer\bin\Release\Image_Viewer.pdb
+G:\ASPNET\Image_Viewer\Image_Viewer\obj\Release\Image_Viewer.Form1.resources
+G:\ASPNET\Image_Viewer\Image_Viewer\obj\Release\Image_Viewer.Properties.Resources.resources
+G:\ASPNET\Image_Viewer\Image_Viewer\obj\Release\Image_Viewer.csproj.GenerateResource.Cache
+G:\ASPNET\Image_Viewer\Image_Viewer\obj\Release\Image_Viewer.exe
+G:\ASPNET\Image_Viewer\Image_Viewer\obj\Release\Image_Viewer.pdb
